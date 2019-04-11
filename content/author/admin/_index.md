@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Konstantinos E Kakosimos"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Associate Professor of Chemical Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Texas A&M University at Qatar", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests focus on transport and reacting phenomena modelling (experimental and numerical)."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -34,19 +34,15 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "PhD in Chemical Engineering"
+  institution = "Aristotle University of Thessaloniki, Greece"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Dipl Eng in Chemical Engineering"
+  institution = "Aristotle University of Thessaloniki, Greece"
+  year = 2002
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,12 +52,12 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:k.kakosimos@qatar.tamu.edu".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/kkakosim"
 
 [[social]]
   icon = "google-scholar"
@@ -71,7 +67,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/kkakosim"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +78,5 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Dr. Kakosimos’ main research activities are focused on the development and application of the tools needed to improve and sustain the quality of the environment with expertise in the area of transport and reacting phenomena modelling (experimental and numerical). More specifically, my research deals with fluid mechanics, modelling/monitoring of air quality, risk analysis and effects estimation of fires, explosions and toxic gases, and solar photo- and thermochemical processes, reactors and materials. In 2014, he established the Sustainable Energy and Clean Air Research lab (SECAReLab) with unique facilities for the development and testing of solar-driven chemical processes and the involved equipment and materials. In addition, he develops software for mixed/augmented reality applications on training and safety. 
+In the past, he worked as Postdoctoral Research Fellow/Assistant in the Laboratory of Thermophysical Properties and Environmental Processes of Aristotle University, as visiting Research Assistant in the National Environmental Research Institute, Aarhus University Denmark and also as a Design Engineer and Environmental Consultant for a number of private firms (Hellenic Petroleum, Titan Cement Company SA, Hellenic Gold, HYETOS GP etc). On October 2012 he has been appointed Assistant Professor of Chemical Engineering in Texas A&M University at Qatar and promoted to Associate Professor on September 2018. 
